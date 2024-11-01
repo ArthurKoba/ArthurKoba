@@ -40,3 +40,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   </div>
 </div>
+
+---
+
+<div align="center">
+  <h3>Account Stats</h3>
+  
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArthurKoba&theme=transparent)
+
+  
+  
+</div>
